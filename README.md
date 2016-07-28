@@ -1,5 +1,7 @@
 *QRLJacking* - A new Social Engineering Attack Vector
 ====================
+
+[![Join the chat at https://gitter.im/mtiifa/QRLJacking](https://badges.gitter.im/mtiifa/QRLJacking.svg)](https://gitter.im/mtiifa/QRLJacking?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![](https://github.com/OWASP/QRLJacking/blob/master/blob/images/QRLJacking.JPG?raw=true)
 
 
